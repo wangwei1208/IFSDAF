@@ -1,2 +1,4 @@
 # IFSDAF
-Spatiotemporal fusion
+Spatiotemporal fusion algorithm 
+
+##  优势
